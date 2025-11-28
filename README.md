@@ -44,7 +44,7 @@ Below is an example generated using ASCII Charm:
 <!-- Include pic.md -->
 
 ```markdown
-{{ content of pic.md here }}
+{{ wip }}
 ```
 
 (You can replace the block above with a direct include if your Markdown renderer supports it.)
